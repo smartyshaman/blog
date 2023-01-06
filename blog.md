@@ -2,7 +2,7 @@
 layout: default
 title: Fucking Blog
 description: This is a fucking blog page. Enjoy it.
-permalink: /fucking-blog/
+permalink: /blog/
 ---
 
 {% for post in site.posts %}

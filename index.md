@@ -1,5 +1,5 @@
 ---
-title: Start a Fucking Blog
+title: This is a Fucking Blog
 description: Go on, do it right fucking now - it's the best thing on the web you can do.
 layout: default
 ---

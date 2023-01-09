@@ -1,6 +1,6 @@
 ---
 title: Anant Shiva
-description: Reinventing the Wheel to Run Myself Over.
+description: 
 layout: default
 ---
 

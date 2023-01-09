@@ -1,6 +1,6 @@
 ---
-title: This is a Fucking Blog
-description: Go on, do it right fucking now - it's the best thing on the web you can do.
+title: Anant Shiva
+description: Reinventing the Wheel to Run Myself Over.
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Anant Shiva
-description: This is a fucking blog, and it's wonderful. It's perfect. It allows you to share your words, in your own voice, with no corporate fuckery to fuck it up for you. Own your content; **start a fucking blog.**.
+description: 
 layout: default
 ---
 

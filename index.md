@@ -13,3 +13,12 @@ They can't ban you from your own blog. They can't silence you. They can't make m
 
 Own your content; **start a fucking blog.**
 
+
+{% for post in site.posts %}
+  <div class="blog-item">
+    <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+    <p class="meta">{{ post.description }}</p>
+    <p class="meta">{{ post.date | date_to_string }}</p>
+  </div>
+{% endfor %}
+

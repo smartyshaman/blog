@@ -63,9 +63,9 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
+  Now: /now
   
 
 # Add links for more focus here
 special_links:
-  "Search": https://duckduckgo.com
+  Life in Weeks: https://calm-gelato-13dfad.netlify.app

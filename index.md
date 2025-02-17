@@ -3,11 +3,10 @@ layout: default
 title: Hello
 ---
 
-Currently living in Cape Town — possibly the most beautiful city in the world.
-I'm the creator of the no-nonsense blogging platform, Bear, and a few other things.
-I also write short-to-mid length essays about life, tech, and whatever I currently find interesting.
+## Hello! I’m a software person who loves to make stuff.
 
-### My most recent posts
-{% for post in site.posts limit:5 %}
-  - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+I fell in love with code as a kid when I got my first BASIC program to run. Since then, I’ve spent my career writing software, writing about software, and leading software teams and companies.
+
+I’m a former CEO, startup founder, and author. You can see my career path on LinkedIn, and some thoughts on life on Bluesky. Email me to my usual username at Gmail.
+
+Thanks for stopping by.

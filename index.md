@@ -4,10 +4,10 @@ title: Hello
 ---
 ## Hello, I'm Anant.
 
-### I write words, ride bikes, climb mountains, and make things.
+### I make videos, teach filmmaking, and occasionally pretend to be productive.
 
-Currently living in Cape Town — possibly the most beautiful city in the world.
+Based in Singapore, where it’s either blazing hot or pouring rain—sometimes both at the same time.
 
-I'm the creator of the no-nonsense blogging platform, Bear, and a few other things.
+I spend my time geeking out over cameras, tinkering with AI, and figuring out how to balance being a dad, a YouTuber, and a guy who just wants to hit the gym without excuses.
 
-I also write short-to-mid length essays about life, tech, and whatever I currently find interesting.
+Expect thoughts on tech, creativity, and whatever weird rabbit hole I’ve fallen into this week.

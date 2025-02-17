@@ -62,7 +62,10 @@ exclude: [vendor]
 Blog: /blog
 
 # Add general links to site pages here
+links:
+  Now: /now
   
+
 # Add links for more focus here
 special_links:
   Life in Weeks: https://weeks.anantshiva.com

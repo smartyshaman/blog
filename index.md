@@ -4,7 +4,7 @@ title: Hello
 ---
 ## Hello, I'm Anant.
 
-### I make videos, teach filmmaking, and occasionally pretend to be productive.
+### I make videos, teach filmmaking, and pretend to be productive.
 
 Based in Singapore, where it’s either blazing hot or pouring rain - sometimes both at the same time.
 

@@ -9,4 +9,6 @@ I'm the creator of the no-nonsense blogging platform, Bear, and a few other thin
 I also write short-to-mid length essays about life, tech, and whatever I currently find interesting.
 
 ### Recent Posts
-{{ posts|limit:3 }}
+{% for post in site.posts limit:5 %}
+  - [{{ post.title }}]({{ post.url }})
+{% endfor %}

@@ -3,8 +3,12 @@
 
 title: jekyllBear
 description: a minimal, text focused blog theme
+
+# Add ruby version here
+ruby_version: 3.2.2
+
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
@@ -46,7 +50,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Singapore
 future: false
 
 exclude:

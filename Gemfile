@@ -1,4 +1,4 @@
 # frozen_string_literal: true
-gem 'rubygems-update', '~> 3.3.22'
+ruby '3.2.2'
 source 'https://rubygems.org'
 gemspec

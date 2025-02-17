@@ -6,6 +6,4 @@ title: Hello
 
 ### I make videos, teach filmmaking, and pretend to be productive.
 
-Based in Singapore, where it’s either blazing hot or pouring rain - sometimes both at the same time.
-
-Expect thoughts on tech, creativity, and whatever weird rabbit hole I’ve fallen into this week.
+Based in Singapore, where it’s either blazing hot or pouring rain - sometimes both at the same time. Expect thoughts on tech, creativity, and whatever weird rabbit hole I’ve fallen into this week.

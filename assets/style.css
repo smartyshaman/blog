@@ -234,8 +234,8 @@ ul.blog-posts {
 }
 
 ul.blog-posts li {
-    padding-top: 0.61803rem; /* Adjust this to change space above each list item */
-    padding-bottom: 0.61803rem; /* Adjust this to change space below each list item */
+    padding-top: 0.3rem; /* Adjust this to change space above each list item */
+    padding-bottom: 0.3rem; /* Adjust this to change space below each list item */
 }
 
 ul.blog-posts li span {

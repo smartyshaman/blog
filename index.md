@@ -4,20 +4,11 @@ title: Hello
 ---
 
 ## Hi, I'm Anant.
+Currently living in Cape Town — possibly the most beautiful city in the world.
+I'm the creator of the no-nonsense blogging platform, Bear, and a few other things.
+I also write short-to-mid length essays about life, tech, and whatever I currently find interesting.
 
-**Stop worrying about the style, focus on your writing.**
-
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-## Recent Posts
-
+**Recent Posts.**
 {% for post in site.posts limit:3 %}
   - [{{ post.title }}]({{ post.url }})
 {% endfor %}
